@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062105015225",
+    "project_id": "buddy-94470",
+    "storage_bucket": "buddy-94470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062105015225:android:49c63b7857f8b549c38c68",
+        "android_client_info": {
+          "package_name": "com.example.learn_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062105015225-14f4182nlpq89lknfif998jck37nm05n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZFO-1k8vKiJv5gpWIYGeDDMm0TxaNa_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062105015225-14f4182nlpq89lknfif998jck37nm05n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

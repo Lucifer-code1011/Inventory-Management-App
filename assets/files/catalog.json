@@ -1,0 +1,88 @@
+{
+    "products": {
+    "egg": {
+        "count": 1,
+        "desc": "Lorem ipsum dolor sit amet, comsectetur",
+        "image": "https://firebasestorage.googleapis.com/v0/b/buddy-94470.appspot.com/o/the-instagram-egg-1024x683-removebg-preview.png?alt=media&token=91456a7b-c650-4426-aab3-847c2f31d272",
+        "name": "egg",
+        "price": "20"
+      },
+      "horlicks": {
+        "count": 1,
+        "desc": "Lorem ipsum dolor sit amet, comsectetur",
+        "image": "https://firebasestorage.googleapis.com/v0/b/buddy-94470.appspot.com/o/24559f26e2244a7a32fbd5630861e911.jpg_750x750-removebg-preview.png?alt=media&token=59374f39-1dec-4fed-8861-3bf8f2f53028",
+        "name": "horlicks",
+        "price": "273"
+      },
+      "real-juice-mango": {
+        "count": 1,
+        "desc": "Lorem ipsum dolor sit amet, comsectetur",
+        "image": "https://firebasestorage.googleapis.com/v0/b/buddy-94470.appspot.com/o/Real.png?alt=media&token=4f897d6d-5be5-462e-af02-550377ecefc7",
+        "name": "real-juice-mango",
+        "price": "200"
+      },
+      "0": {
+        "color": "#33505a",
+        "count": 0,
+        "desc": "Laundry & Household - Cleaning Bathroom",
+        "id": 1,
+        "image": "https://firebasestorage.googleapis.com/v0/b/buddy-94470.appspot.com/o/Harpic.png?alt=media&token=b16fb0eb-9ea8-426e-83c7-130b4ae135dc",
+        "name": "Harpic Power Plus",
+        "price": "158"
+      },
+      "1": {
+        "color": "#00ac51",
+        "count": "0",
+        "desc": "Lorem ipsum dolor sit amet, consectetur",
+        "id": 2,
+        "image": "https://firebasestorage.googleapis.com/v0/b/buddy-94470.appspot.com/o/KitKat.png?alt=media&token=635f31ec-e243-4b9f-a975-6bbe2ed23abc",
+        "name": "Kit Kat",
+        "price": "100"
+      },
+      "2": {
+        "color": "#e0bfae",
+        "count": 0,
+        "desc": "Lorem ipsum dolor sit amet, consectetur",
+        "id": 3,
+        "image": "https://firebasestorage.googleapis.com/v0/b/buddy-94470.appspot.com/o/Lays.png?alt=media&token=2e777045-f833-48ac-b415-8cf65be52028",
+        "name": "Lays",
+        "price": "50"
+      },
+      "4": {
+        "color": "#e3e4e9",
+        "count": 0,
+        "desc": "Lorem ipsum dolor sit amet, consectetur",
+        "id": 5,
+        "image": "https://firebasestorage.googleapis.com/v0/b/buddy-94470.appspot.com/o/2pm.png?alt=media&token=02e047ae-4ad3-431e-a96d-deb541af5918",
+        "name": "2pm Noodles",
+        "price": "50"
+      },
+      "5": {
+        "color": "#f73984",
+        "count": 0,
+        "desc": "Lorem ipsum dolor sit amet, consectetur",
+        "id": 6,
+        "image": "https://firebasestorage.googleapis.com/v0/b/buddy-94470.appspot.com/o/Meat%20Masala.png?alt=media&token=9f7a1674-2e6c-45d7-bef0-1d6e6da2a989",
+        "name": "Meat Masala",
+        "price": "100"
+      },
+      "6": {
+        "color": "#1c1c1c",
+        "count": 0,
+        "desc": "Lorem ipsum dolor sit amet, consectetur",
+        "id": 7,
+        "image": "https://firebasestorage.googleapis.com/v0/b/buddy-94470.appspot.com/o/nivea.png?alt=media&token=8d23d87a-5cca-4909-babf-37214499dbbe",
+        "name": "Nivea Cream",
+        "price": "1299"
+      },
+      "7": {
+        "color": "#7c95eb",
+        "count": 0,
+        "desc": "Lorem ipsum dolor sit amet, consectetur",
+        "id": 8,
+        "image": "https://firebasestorage.googleapis.com/v0/b/buddy-94470.appspot.com/o/Nutella.png?alt=media&token=d14197a8-2b1b-417c-9a73-ba1bc4537aab",
+        "name": "Nutella",
+        "price": "300"
+      }
+    }
+  }
